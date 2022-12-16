@@ -36,6 +36,7 @@
 .DS_Store
 .simvision
 .simvision
+gun_bird_ii-backups
 build_id.v
 core.def
 cores/*/mc2/*
