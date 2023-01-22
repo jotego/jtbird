@@ -16,6 +16,12 @@ In chronological order:
 
  1. 
 
+# Schematics
+
+The KiCAD schematics developed by JOTEGO's team are in the sch folder of each core. Some of them only reproduce one aspect of the board that we needed to double check. A link to PDF versions is available below.
+
+- [JOTEGO's schematics for Gun Bird II](https://github.com/jotego/jtbin/tree/master/sch/bird.pdf)
+
 ## Known Issues
 
 ## Keyboard
